@@ -4,7 +4,7 @@ A reusable AI skill that finds overlapping working-hour windows for participants
 
 > **Note on numbering:** This is **HW4**. The assignment text refers to itself as "Week 5 / HW5" in places, but in the course's homework sequence this submission is HW4 — that is why the repo, folder, and identifier are `hw-4` / `hw4-wwalsh`.
 
-**Walkthrough video:** _TODO — paste Zoom Cloud or unlisted YouTube link here before submission._
+**Walkthrough video:** [https://youtu.be/H9CIHXsaco4](https://youtu.be/H9CIHXsaco4)
 
 ## Layout
 

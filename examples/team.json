@@ -1,0 +1,9 @@
+{
+  "participants": [
+    {"name": "Alice", "tz": "America/New_York", "work_start": "09:00", "work_end": "17:00"},
+    {"name": "Bob",   "tz": "Europe/London",   "work_start": "09:00", "work_end": "17:00"},
+    {"name": "Carol", "tz": "Asia/Tokyo",      "work_start": "10:00", "work_end": "18:00",
+                      "work_days": ["Mon","Tue","Wed","Thu","Fri"]},
+    {"name": "Priya", "tz": "Asia/Kolkata",    "work_start": "10:00", "work_end": "19:00"}
+  ]
+}
